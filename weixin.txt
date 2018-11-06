@@ -1,0 +1,11 @@
+微信在分享链接的时候点击进入过程会弹出一个是否允许微信，点击 参与会生成一个code，这个code会被带入地址栏中如果没有则无法进入小程序其他页面，微信api接口会给他所浏览用户的部分信息，昵称，性别，所在城市，还有头像，生成的code在下次浏览中会直接获得，不管以后访问多少次code不变在公众号中会有
+
+
+https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140842
+微信支付
+
+https://zhidao.baidu.com/question/618466792746053532.html
+json获取微信中的数据
+
+查看微信接口返回的内容
+http://www.runoob.com/java/java-url-processing.html
